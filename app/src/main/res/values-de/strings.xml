@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Licht auf Klick</string>
+    <string name="light_on">Licht an</string>
+    <string name="light_off">Licht aus</string>
+</resources>
